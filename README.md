@@ -15,6 +15,10 @@
 > docker-compose down
 > ```
 
+# How to upload local files and make it work on serveer(Sakura rental server)
+
+> https://yuruyururoad.jp/2017/09/30/mampwordpress/
+
 # 使い方
 
 > 1.  docker を下記からインストール <br /> > https://docs.docker.com/compose/install/
@@ -31,6 +35,10 @@
 > ```shell
 > docker-compose down
 > ```
+
+# 本番環境へのアップロード
+
+> https://yuruyururoad.jp/2017/09/30/mampwordpress/
 
 # Note
 
